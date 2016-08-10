@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A1EDAA46-95A6-4D60-A621-180AEBFAE9CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Clave_de_sol</RootNamespace>
+    <AssemblyName>Clave_de_sol</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cad_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cad_cliente.Designer.cs">
+      <DependentUpon>Cad_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cad_Conta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cad_Conta.Designer.cs">
+      <DependentUpon>Cad_Conta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cad_Func.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cad_Func.Designer.cs">
+      <DependentUpon>Cad_Func.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cad_fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cad_fornecedor.Designer.cs">
+      <DependentUpon>cad_fornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cad_Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cad_Produto.Designer.cs">
+      <DependentUpon>Cad_Produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cad_contador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cad_contador.Designer.cs">
+      <DependentUpon>Cad_contador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MySqlConnection.cs" />
+    <Compile Include="Carrinho.cs" />
+    <Compile Include="Pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pagamento.Designer.cs">
+      <DependentUpon>Pagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendas.Designer.cs">
+      <DependentUpon>Vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda_Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venda_Produto.Designer.cs">
+      <DependentUpon>Venda_Produto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cad_cliente.resx">
+      <DependentUpon>Cad_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cad_Conta.resx">
+      <DependentUpon>Cad_Conta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cad_fornecedor.resx">
+      <DependentUpon>cad_fornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cad_Func.resx">
+      <DependentUpon>Cad_Func.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cad_Produto.resx">
+      <DependentUpon>Cad_Produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cad_contador.resx">
+      <DependentUpon>Cad_contador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pagamento.resx">
+      <DependentUpon>Pagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vendas.resx">
+      <DependentUpon>Vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venda_Produto.resx">
+      <DependentUpon>Venda_Produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

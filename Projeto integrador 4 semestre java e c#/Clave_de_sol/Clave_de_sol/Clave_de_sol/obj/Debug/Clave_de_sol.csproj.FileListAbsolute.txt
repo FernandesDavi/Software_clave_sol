@@ -1,0 +1,50 @@
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.exe.config
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.exe
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.pdb
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Properties.Resources.resources
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.csproj.GenerateResource.Cache
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.exe
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.pdb
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.csprojResolveAssemblyReference.cache
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_cliente.resources
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Func.resources
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.menu.resources
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.cad_fornecedor.resources
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Produto.resources
+D:\Integrador em C#\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_contador.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_cliente.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Conta.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.cad_fornecedor.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Func.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Produto.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_contador.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.menu.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Properties.Resources.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Vendas.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Venda_Produto.resources
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.exe.config
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.exe
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.pdb
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.exe
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.pdb
+C:\Users\Alexandre\Downloads\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Pagamento.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.exe.config
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.exe
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.pdb
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.exe
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\bin\Debug\Clave_de_sol.pdb
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.csprojResolveAssemblyReference.cache
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_cliente.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Conta.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.cad_fornecedor.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Func.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_Produto.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Cad_contador.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.menu.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Pagamento.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Properties.Resources.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Vendas.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.Venda_Produto.resources
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.csproj.GenerateResource.Cache
+C:\Users\Davi\Desktop\Clave_de_sol\Clave_de_sol\Clave_de_sol\obj\Debug\Clave_de_sol.login.resources
